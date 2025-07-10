@@ -1,7 +1,7 @@
 # 📧 Spam Email Classifier Dashboard
 
 An interactive Streamlit web application that classifies emails as **Spam** or **Not Spam** using multiple machine learning models like XGBoost, Random Forest, and Logistic Regression. The app provides a dashboard-style interface where users can manually input feature values and visualize prediction results.
-
+🔗 **Live App:** [Click to Try](https://spambase-classification-jfvwod9g8xhwab3hja9gnx.streamlit.app/)
 ---
 
 ## 🚀 Features
