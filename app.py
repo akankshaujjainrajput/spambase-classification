@@ -11,11 +11,11 @@ st.markdown("Predict whether an email is **Spam** or **Not Spam** using Machine 
 
 # === Model Selection & Load ===
 model_paths = {
-    "XGBoost": r"saved_models\xgboost_best_model.pkl",
-    "Random Forest": r"saved_models\random_forest_best_model.pkl",
+    "XGBoost": r"saved_models/xgboost_best_model.pkl",
+    "Random Forest": r"saved_models/random_forest_best_model.pkl",
     "Logistic Regression": r"saved_models/logistic_regression_best_model.pkl",
-    "Naive Bayes":r"saved_models\naive_bayes_best_model.pkl",
-    "Gradient Boost":r"saved_models\gradient_boosting_best_model.pkl"
+    "Naive Bayes":r"saved_models/naive_bayes_best_model.pkl",
+    "Gradient Boost":r"saved_models/gradient_boosting_best_model.pkl"
 }
 
 col1, col2, col3 = st.columns([1, 2, 2])
